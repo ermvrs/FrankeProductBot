@@ -1,0 +1,36 @@
+,
+        {
+            "Kategori" : "firinlar",
+            "Baslik" : "glass linear",
+            "UrunKodu" : "131.0533.922",
+            "Iskonto" : 0.8
+        }
+
+                    {
+                "Kategori" : "firinlar",
+                "Baslik" : "glass linear",
+                "UrunKodu" : "131.0566.867",
+                "Iskonto" : 0.8
+            }
+            ,
+
+                        {
+                "Kategori" : "firinlar",
+                "Baslik" : "glass linear",
+                "UrunKodu" : "131.0566.870",
+                "Iskonto" : 0.8
+                },
+
+,
+                    {
+                        "Kategori" : "camasir-makineleri",
+                        "Baslik" : "camasir-makinesi",
+                        "UrunKodu" : "138.0262.502",
+                        "Iskonto" : 0.8
+                        },
+                        {
+                            "Kategori" : "camasir-makineleri",
+                            "Baslik" : "camasir-makinesi",
+                            "UrunKodu" : "138.0544.439",
+                            "Iskonto" : 0.8
+                            }

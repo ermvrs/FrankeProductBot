@@ -1,0 +1,56 @@
+{
+    "Urunler" : [
+
+            {
+                "Kategori" : "buzdolaplari",
+                "Baslik" : "solo",
+                "UrunKodu" : "118.0544.324",
+                "Iskonto" : 0.8
+                },
+                {
+                    "Kategori" : "buzdolaplari",
+                    "Baslik" : "solo",
+                    "UrunKodu" : "118.0544.323",
+                    "Iskonto" : 0.8
+                    },
+                    {
+                        "Kategori" : "buzdolaplari",
+                        "Baslik" : "solo",
+                        "UrunKodu" : "118.0183.637",
+                        "Iskonto" : 0.8
+                        },
+                        {
+                            "Kategori" : "buzdolaplari",
+                            "Baslik" : "solo",
+                            "UrunKodu" : "118.0319.485",
+                            "Iskonto" : 0.8
+                            },
+                            {
+                                "Kategori" : "buzdolaplari",
+                                "Baslik" : "solo",
+                                "UrunKodu" : "118.0544.326",
+                                "Iskonto" : 0.8
+                                },
+                                {
+                                    "Kategori" : "buzdolaplari",
+                                    "Baslik" : "solo",
+                                    "UrunKodu" : "118.0544.328",
+                                    "Iskonto" : 0.8
+                                    },
+                                        {
+                                            "Kategori" : "buzdolaplari",
+                                            "Baslik" : "solo",
+                                            "UrunKodu" : "118.0571.460",
+                                            "Iskonto" : 0.8
+                                            },
+                                            {
+                                                "Kategori" : "buzdolaplari",
+                                                "Baslik" : "solo",
+                                                "UrunKodu" : "118.0571.459",
+                                                "Iskonto" : 0.8
+                                                }
+                ],
+    "Eklenemeyenler" : [
+        
+    ]
+}
